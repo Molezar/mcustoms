@@ -1,37 +1,27 @@
-body {
-  margin-top: 20px;
-  background-color: #aaff80;
-}
 
 .menu {
   background-color: #ffff4d !important;
-  margin-bottom: 20px;
+  margin-bottom: 50px !important;
+  margin-top: 15px !important;
+  padding: 20px !important;
+  font-size: 50 !important;
 }
 
-.popup {
-  background-color: #ffff4d;
-  max-width: 1000px !important;
-}
-
-.card-image {
-   height: 350px;
+.ui.cards {
   overflow: hidden;
   position: relative;
+  /* background-color: limegreen !important; */
 }
 
-.card-color {
+/* .ui.four.cards. {
+  overflow: hidden;
+  position: relative;
   background-color: limegreen !important;
-}
-.card-color button {
-  background: yellow none !important;
-}
+  margin-bottom: 50px !important;
+  margin-top: 15px !important;
+  padding: 20px !important;
+  font-size: 50 !important;
+} */
 
-.card-image img {
-  width: 100%;
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+
 

@@ -3,43 +3,14 @@ body {
   margin-top: 50px;
   margin-left: 100px;
   margin-right: 100px;
-  background-color: #aaff80;
+ 
+  background-image:url('zakat.jpg');
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
   'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
   sans-serif;
 -webkit-font-smoothing: antialiased;
 -moz-osx-font-smoothing: grayscale;
+font-size: 15px;
+font-weight: bold;
 }
 
-.menu {
-  background-color: #ffff4d !important;
-  margin-bottom: 20px;
-}
-
-.popup {
-  background-color: #ffff4d;
-  max-width: 1000px !important;
-}
-
-.card-image {
-   height: 350px;
-  overflow: hidden;
-  position: relative;
-}
-
-.card-color {
-  background-color: limegreen !important;
-}
-.card-color button {
-  background: yellow none !important;
-}
-
-.card-image img {
-  width: 100%;
-  margin: 10;
-  padding: 10;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
